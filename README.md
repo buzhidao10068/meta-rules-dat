@@ -1,5 +1,9 @@
 ## **下载地址**：
 
+第一次使用 FlClash？请先看 [FlClash 从零开始使用本仓库规则数据的教程](docs/FlClash-新手教程.md)，了解订阅、Geo 数据和规则集分别是什么，以及如何操作和排错。教程还包含 [仓库所有文件逐个说明](docs/FlClash-新手教程.md#repository-files)，介绍脚本、自动化配置、发布数据和各分支的规则格式。
+
+想了解规则从哪里来？查看 [上游项目与下载链接](docs/FlClash-新手教程.md#upstream-sources)，包含上游项目、42 个数据下载地址及其用途。
+
 | 文件名              | Github release                                                                                                            | JSdelivr                                                                                                                           | JSdelivr-CF                                                                                                                              |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | country.mmdb        | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb)                                 | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)                                                   | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)                                                  |
